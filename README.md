@@ -1,4 +1,4 @@
-#                                 Dining Philosophers Problem
+# Dining Philosophers Problem
 
 This project is an implementation of the Dining Philosophers Problem using C. The solution aims to avoid deadlock and ensure all philosophers can eat.
 
@@ -8,7 +8,7 @@ the project contains the following files:
 - [headerfile.h](headerfile.h): The header file containing function prototypes and definitions.
 - [Makefile](Makefile): The Makefile used to compile the project.
   
-<img width="512" alt="image" src="https://github.com/youssef3332-a11y/Dining-_Philosophers_Problem/assets/78111236/47a39cda-29ea-442a-bdf8-78b8e0dbeb39">
+[headerfile.h](headerfile.h)
 
 ## Table of Contents
 
@@ -27,4 +27,12 @@ git clone https://github.com/aitgouraine.youssef/Dining-_Philosophers_Problem.gi
 
 enter the repository with the commande  ```cd Dining-_Philosophers_Problem```
 
-seliytunwvè138 ovn15
+## usage
+before execution the program the user can modify some variables to influence bihaviour of the dining philosophers table
+in the [headerfile.h](headerfile.h) you can modify the next variables defined as macros:
+```C
+#define N 6 // Number of philosophers
+#define max_time_no_eating 2 //decrease if you want to test the starvation
+#define sleeping_time 2 //increase to make the starvation happen
+```
+
