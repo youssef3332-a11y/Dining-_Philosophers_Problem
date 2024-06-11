@@ -18,8 +18,6 @@ the project contains the following files:
 ## Installation
 Firt you will need to install gcc compilier with the commands ```sudo apt update``` and ```sudo apt install gcc```(```sudo apt install gcc -y``` if you are using ubuntu)
 
-> **⚠ Important:** if you are using **ubuntu** you will probably run into some problems.
-
 second install **git** so you can clone the ripository, you can do it using the commands ```sudo apt update``` and ```sudo apt install git```
 
 finally install the command ```make``` so you can use the Makefile to compile, you can use the commands ```sudo apt update```and ```sudo apt-get install build-essential```.
