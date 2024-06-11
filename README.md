@@ -52,3 +52,6 @@ Once you have the project on your local machine and you set the parameters you w
 
 > **⚠ Important:**
 > The Makefile provided in this repository is designed to work on **Linux** or **Kali Linux**, which are Unix-like operating systems. It may not function correctly on other operating systems as the program work with the pthread library which is not a build-in library and difficult to install, and the makefile contain some unix commands.
+
+**here is a demo on how to execute:**
+![WhatsApp Image 2024-06-11 à 22 36 37_604bb923](https://github.com/youssef3332-a11y/Dining-_Philosophers_Problem/assets/78111236/74320064-33dc-4f23-834c-24186abf7279)
