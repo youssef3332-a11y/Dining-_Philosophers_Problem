@@ -17,6 +17,7 @@ the project contains the following files:
 
 ## Installation
 
+<span style="color: red;">**Important:**
 To install this project, you need to clone the repository.
 
 ```bash
