@@ -24,5 +24,7 @@ To install this project, you need to clone the repository.
 ```bash
 git clone https://github.com/aitgouraine.youssef/Dining-_Philosophers_Problem.git
 
-enter the repository with the commande ```bash cd Dining-_Philosophers_Problem
 
+enter the repository with the commande  cd Dining-_Philosophers_Problem
+
+seliytunwvè138 ovn15
