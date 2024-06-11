@@ -26,7 +26,7 @@ git clone https://github.com/aitgouraine.youssef/Dining-_Philosophers_Problem.gi
 enter the repository with the commande  ```cd Dining-_Philosophers_Problem```
 
 ## usage
-before execution the program the user can modify some variables to influence bihaviour of the dining philosophers table
+before execution the program ,the user can modify some variables to influence the bihaviour of the dining philosophers table:
 in the [headerfile.h](headerfile.h) you can modify the next variables defined as macros:
 ```C
 #define N 6 // Number of philosophers
