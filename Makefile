@@ -19,10 +19,10 @@ main.o: main.c headerfile.h
 	echo "all packages are installed"; \
 	fi
 	@echo "le program is linking"
-	@echo "le program est aucours d'execution"
+	@echo "le program est en cours d'execution"
 	$(CC) $(CFLAGS) -c main.c
 
 
 clean:
 	@echo "all the files created will be deleted not uncluding the source code"
-	rm -f $(TARGET) *.o
+	@rm -f $(TARGET) *.o
