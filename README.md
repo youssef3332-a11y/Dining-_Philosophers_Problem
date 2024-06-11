@@ -17,6 +17,7 @@ the project contains the following files:
 
 ## Installation
 Firt you will need to install gcc compilier with the commands ```sudo apt update``` and ```sudo apt install gcc```
+> **⚠ Important:** if you are using **ubuntu** you will probably run into some problems.
 
 second install **git** so you can clone the ripository, you can do it using the commands ```sudo apt update``` and ```sudo apt install git```
 
