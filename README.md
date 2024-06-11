@@ -17,7 +17,6 @@ the project contains the following files:
 
 ## Installation
 
-> **⚠ Important:**
 To install this project, you need to clone the repository.
 
 ```bash
@@ -45,3 +44,6 @@ Once you have the project on your local machine and you set the parameters you w
 
 -if you want to remove the files created you can execute the following command ```make clean``` , this command will delete all the files except the source code.
 *here is a demo on how the use the make file*
+
+> **⚠ Important:**
+> The Makefile provided in this repository is designed to work on **Linux** or **Kali Linux**, which are Unix-like operating systems. It may not function correctly on other operating systems as the program work with the pthread library which is not a build-in library and difficult to install.
