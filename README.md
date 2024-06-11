@@ -1,7 +1,7 @@
 # Dining Philosophers Problem
 
 This project is an implementation of the Dining Philosophers Problem using C. The solution aims to avoid deadlock and ensure all philosophers can eat.
-The entire project report is in the PDF file named 
+The entire project report is in the PDF file : [report](Rapport_du_Projet_du_Diner_Des_Philosophes.pdf)
 
 # User Manual 
 the project contains the following files:
@@ -16,7 +16,6 @@ the project contains the following files:
 - [Installation](#installation)
 - [Usage](#usage)
 - [Execution](#Execution)
-- [Contributing](#contributing)
 
 ## Installation
 
