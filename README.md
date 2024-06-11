@@ -2,6 +2,7 @@
 
 This project is an implementation of the Dining Philosophers Problem using C. The solution aims to avoid deadlock and ensure all philosophers can eat.
 
+![Philosophers Diagram](images/what_can_user_change.png)
 ## Table of Contents
 
 - [Installation](#installation)
