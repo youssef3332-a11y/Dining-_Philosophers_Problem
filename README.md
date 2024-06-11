@@ -16,11 +16,14 @@ the project contains the following files:
 - [Execution](#Execution)
 
 ## Installation
+Firt you will need to install gcc compilier with the commands ```sudo apt update``` and ```sudo apt install gcc```.
+second install **git** so you can clone the ripository, you can do it using the commands ```sudo apt update``` and ```sudo apt install git```
+finally install the command ```make``` so you can use the Makefile to compile, you can use the commands ```sudo apt update```and ```sudo apt-get install build-essential```.
 
-To install this project, you need to clone the repository.
+Clone the repository.
 
 ```bash
-git clone https://github.com/aitgouraine.youssef/Dining-_Philosophers_Problem.git
+https://github.com/youssef3332-a11y/Dining-_Philosophers_Problem.git
 ```
 
 enter the repository with the commande  ```cd Dining-_Philosophers_Problem```
