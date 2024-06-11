@@ -46,4 +46,4 @@ Once you have the project on your local machine and you set the parameters you w
 *here is a demo on how the use the make file*
 
 > **⚠ Important:**
-> The Makefile provided in this repository is designed to work on **Linux** or **Kali Linux**, which are Unix-like operating systems. It may not function correctly on other operating systems as the program work with the pthread library which is not a build-in library and difficult to install.
+> The Makefile provided in this repository is designed to work on **Linux** or **Kali Linux**, which are Unix-like operating systems. It may not function correctly on other operating systems as the program work with the pthread library which is not a build-in library and difficult to install, and the makefile contain some unix commands.
