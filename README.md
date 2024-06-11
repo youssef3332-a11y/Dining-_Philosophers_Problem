@@ -1,6 +1,7 @@
 # Dining Philosophers Problem
 
 This project is an implementation of the Dining Philosophers Problem using C. The solution aims to avoid deadlock and ensure all philosophers can eat.
+The entire project report is in the PDF file named 
 
 # User Manual 
 the project contains the following files:
@@ -14,7 +15,7 @@ the project contains the following files:
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Makefile](#makefile)
+- [Execution](#Execution)
 - [Contributing](#contributing)
 
 ## Installation
@@ -35,4 +36,13 @@ in the [headerfile.h](headerfile.h) you can modify the next variables defined as
 #define max_time_no_eating 2 //decrease if you want to test the starvation
 #define sleeping_time 2 //increase to make the starvation happen
 ```
+# Execution
 
+Once you have the project on your local machine and you set the parameters you want, you can use the [Makefile](Makefile) to compile and run the program:
+
+-to compile the program use the command ```make``` the compiler will recognize the Makefile and execute it, this command will generate an executable file named 
+*dining_table* , you can change this name simply by modifying the variable ```C TARGET = dining_table ``` in the Makefile.
+
+- to run the program use the command ```./dining_table```.
+
+- if you want to remove the files created you can execute the following command ```make clean``` , this command will delete all the files except the source code.
