@@ -25,7 +25,7 @@ finally install the command ```make``` so you can use the Makefile to compile, y
 Clone the repository:
 
 ```bash
-https://github.com/youssef3332-a11y/Dining-_Philosophers_Problem.git
+git clone https://github.com/youssef3332-a11y/Dining-_Philosophers_Problem.git
 ```
 
 enter the repository with the commande  ```cd Dining-_Philosophers_Problem```
