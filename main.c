@@ -9,7 +9,6 @@ int main() {
 
     // Initialize server
     pthread_mutex_init(&server.mutex, NULL);
-    pthread_cond_init(&server.server_condition, NULL);
     for (int i = 0; i < N; i++) {
         server.chopsticks[i] = 1;
         server.philosopher_requests[i] = 0;
