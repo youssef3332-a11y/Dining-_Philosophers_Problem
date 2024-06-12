@@ -8,7 +8,7 @@ all: $(TARGET)
 
 
 $(TARGET): main.o
-	$(CC) $(CFLAGS) -o $(TARGET) main.o
+	@$(CC) $(CFLAGS) -o $(TARGET) main.o
 
 
 main.o: main.c headerfile.h
@@ -20,7 +20,7 @@ main.o: main.c headerfile.h
 	fi
 	@echo "le program is linking"
 	@echo "le program est en cours d'execution"
-	$(CC) $(CFLAGS) -c main.c
+	@$(CC) $(CFLAGS) -c main.c
 
 
 clean:
