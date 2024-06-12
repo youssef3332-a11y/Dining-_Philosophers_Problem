@@ -20,7 +20,7 @@ Firt you will need to install gcc compilier with the commands ```sudo apt update
 
 second install **git** so you can clone the ripository, you can do it using the commands ```sudo apt update``` and ```sudo apt install git```
 
-finally install the command ```make``` so you can use the Makefile to compile, you can use the commands ```sudo apt update```and ```sudo apt-get install build-essential```.
+finally install the command ```make``` so you can use the Makefile to compile, you can use the commands ```sudo apt update```and ```sudo apt-get install build-essential``` (```sudo apt install make``` if you are using ubuntu).
 
 Clone the repository:
 
