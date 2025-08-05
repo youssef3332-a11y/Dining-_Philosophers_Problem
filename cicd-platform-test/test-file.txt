@@ -1,0 +1,8 @@
+Hello from CI/CD Platform!
+
+This file was created automatically by the CI/CD platform.
+Repository: Dining-_Philosophers_Problem
+Created by: youssef3332-a11y
+Created at: Tue Aug 05 15:20:34 GMT+01:00 2025
+
+This demonstrates that our OAuth token has write access to repositories!
